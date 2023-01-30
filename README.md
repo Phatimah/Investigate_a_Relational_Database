@@ -2,7 +2,7 @@
 
 In this project, I used SQL to investigate a database relating to movie rentals. I wrote SQL code to execute SQL queries and provided helpful database-related information. I created visualizations to display the results of my SQL queries after running the queries.
 
-[Here are the resources files]().
+[Here are the resources files](https://github.com/Phatimah/Investigate_a_Relational_Database/tree/main/all_project_files).
 
 ## CRITERIA TO BE MET:
 1. The student can write error-free SQL queries.
