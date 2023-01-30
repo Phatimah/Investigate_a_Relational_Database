@@ -4,6 +4,7 @@ In this project, I used SQL to investigate a database relating to movie rentals.
 
 [Here are the resources files](https://github.com/Phatimah/Investigate_a_Relational_Database/tree/main/all_project_files).
 
+
 ## CRITERIA TO BE MET:
 1. The student can write error-free SQL queries.
 2. All SQL queries run without errors and produce the intended results.
