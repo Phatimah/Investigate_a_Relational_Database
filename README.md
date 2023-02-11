@@ -6,6 +6,7 @@ In this project, I used SQL to investigate a database relating to movie rentals.
 
 ## Datasets
 Detailed information on a business that rents out DVD movies may be found in the Sakila Database. The following is the schema for the DVD Rental database, which might be useful for constructing queries.
+![Diagram](https://github.com/Phatimah/Investigate_a_Relational_Database/blob/main/Diagram.png)
 
 
 ## CRITERIA TO BE MET:
