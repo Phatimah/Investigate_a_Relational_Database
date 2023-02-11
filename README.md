@@ -4,6 +4,9 @@ In this project, I used SQL to investigate a database relating to movie rentals.
 
 [Here are the resources files](https://github.com/Phatimah/Investigate_a_Relational_Database/tree/main/all_project_files).
 
+## Datasets
+Detailed information on a business that rents out DVD movies may be found in the Sakila Database. The following is the schema for the DVD Rental database, which might be useful for constructing queries.
+
 
 ## CRITERIA TO BE MET:
 1. The student can write error-free SQL queries.
@@ -19,3 +22,7 @@ In this project, I used SQL to investigate a database relating to movie rentals.
 11. At least 1 of the 4 queries should use a Window Function.
 12. The SQL queries are well formatted.
 13. The SQL queries are well formatted and use aliases.
+
+
+## Credits
+Many thanks to Udacity and its instructors for their guidance and instruction throughout the program.
